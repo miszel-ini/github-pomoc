@@ -1,0 +1,6 @@
+main: net.michal.github.Main
+version: 1.0
+name: 'github-pomoc'
+description: plugin na komende /pomoc
+commands:
+  pomoc:
